@@ -146,5 +146,10 @@
 - Character-level F1 remains high (~89-91%) even when word accuracy is moderate — most errors are minor
 
 ---
+## 🎮 Demo
 
-<p align="center"><b>IIT Kanpur | CS772 Deep Learning for NLP</b></p>
+- Built interactive **Streamlit web app** for real-time transliteration
+- For both **BiLSTM** and **Transformer** model
+- Users can input Romanized Hindi text and get instant Devanagari output
+
+<p align="center"><b>IIT Bombay | CS772 Deep Learning for NLP</b></p>
